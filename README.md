@@ -131,3 +131,8 @@ If you encounter any issues or have suggestions, please:
 1. Check the [Issues](https://github.com/yourusername/TaskAutomationBot/issues) page
 2. Create a new issue if needed
 3. We'll get back to you as soon as possible! 
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
